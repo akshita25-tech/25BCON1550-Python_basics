@@ -27,6 +27,10 @@ The repository contains basic Python programs developed as part of the assignmen
 * Fibonacci program
 * Student structure program
 * `README.md` documentation
+* pronic checker program
+* armstrong checekr program
+* prime number checker program
+   
 
 ## 📝 Commit History
 
@@ -78,6 +82,23 @@ The LLM was used to audit the README for:
 * Project structure
 * Description of the assignment
 * Documentation quality
+  
+  ### commit 4 - prime number checker program
+*Added prime number checker
+*Implemented divisibility checking using a loop
+*Practiced conditional statements and modulus operator
+
+
+### commit 5 - armstrong number checker program
+*Added Armstrong number checker
+*Implemented digit extraction and power calculation
+*Practiced while loops and conditional logic
+
+
+### commit 6 - pronic number checker program
+*Added Pronic number checker
+*Implemented checking using consecutive integers
+*Practiced loops and mathematical logic
 
 This demonstrates how prompt engineering can be used not only for generating code, but also for **reviewing and improving software documentation**.
 
